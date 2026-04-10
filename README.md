@@ -280,7 +280,7 @@ Description :
 Cette capture confirme que la relation entre commande et produit fonctionne correctement.
 Le système gère bien les relations Many-to-Many via une table intermédiaire.
 
-
+---
 
 Conclusion finale
 ✔️ Ajout d’utilisateurs via API
